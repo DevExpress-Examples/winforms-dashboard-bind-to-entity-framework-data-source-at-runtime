@@ -30,22 +30,22 @@
             // 
             // dashboardViewer1
             // 
+            this.dashboardViewer1.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.dashboardViewer1.Appearance.Options.UseBackColor = true;
             this.dashboardViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dashboardViewer1.Location = new System.Drawing.Point(0, 0);
             this.dashboardViewer1.Name = "dashboardViewer1";
-            this.dashboardViewer1.PrintingOptions.FontInfo.GdiCharSet = ((byte)(0));
-            this.dashboardViewer1.PrintingOptions.FontInfo.Name = null;
-            this.dashboardViewer1.Size = new System.Drawing.Size(1070, 471);
+            this.dashboardViewer1.Size = new System.Drawing.Size(800, 470);
             this.dashboardViewer1.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1070, 471);
+            this.ClientSize = new System.Drawing.Size(800, 470);
             this.Controls.Add(this.dashboardViewer1);
             this.Name = "Form1";
-            this.Text = "Dashboard Viewer";
+            this.Text = "Dashboard Bound to Entity Framework";
             ((System.ComponentModel.ISupportInitialize)(this.dashboardViewer1)).EndInit();
             this.ResumeLayout(false);
 
