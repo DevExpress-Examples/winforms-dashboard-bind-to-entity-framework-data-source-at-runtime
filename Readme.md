@@ -12,8 +12,11 @@ In this example, the <a href="http://docs.devexpress.com/Dashboard/DevExpress.D
 
 ![screenshot](images/screenshot.png)
 
-See also:
+## Documentation
 
 * [Creating Dashboards in the WinForms Designer - Entity Framework Data Source](https://docs.devexpress.com/Dashboard/113909)
+
+## More Examples
+
 * [How to: Bind the Web Dashboard to Entity Framework](https://docs.devexpress.com/Dashboard/117074)
 * [ASP.NET MVC Dashboard - How to bind a dashboard to an Entity Framework Data Source](https://github.com/DevExpress-Examples/aspnet-mvc-dashboard-how-to-bind-a-dashboard-to-an-entity-framework-data-source-t551381)
